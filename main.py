@@ -15,20 +15,20 @@ for man in max:
     man_split = man.split("#")
 
     try:
-        man_split[1] = '#Maghaze'
+        man_split[1] = '#Store'
         my_lst_str = ''.join(map(str, man_split))
 
-        man1 = open("config1", "a")
-        man2 = open("config2", "a")
-        man3 = open("config3", "a")
-        man1 = open("config1", "a")
-        man4 = open("config4", "a")
-        man5 = open("config5", "a")
-        man6 = open("config6", "a")
-        man7 = open("config7", "a")
-        man8 = open("config8", "a")
-        man9 = open("config9", "a")
-        man10 = open("config10", "a")
+        man1 = open("erg345345", "a")
+        man2 = open("gdafg45345", "a")
+        man3 = open("gdf6456456", "a")
+        man1 = open("corytrtynfig1", "a")
+        man4 = open("cshonfshig4", "a")
+        man5 = open("dcosdfhdfhnfig5", "a")
+        man6 = open("coddsfhsdhnfig6", "a")
+        man7 = open("cdonsdfhficvbg7", "a")
+        man8 = open("codnfxcvbig8", "a")
+        man9 = open("coxcnfigzbvcxvbn9", "a")
+        man10 = open("con25fig12342350", "a")
 
         man1.writelines(str(my_lst_str) + "\n")
         man2.writelines(str(my_lst_str) + "\n")
