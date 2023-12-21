@@ -1,2 +1,4 @@
 # [speedtest.net]
 127.0.0.1 speedtest.net
+127.0.0.1 ooklaserver.net
+127.0.0.1 *.ooklaserver.net
